@@ -3,7 +3,7 @@ Kobe's Shot prediction
 Team member:
 -------
 yiming(Anson) Wang 1701213111
--------
+
 Backgroud
 -------
 I guess many of you have ever NBA Live. And if you have watch, you must know Kobe Bryant marked his retirement from the NBA by scoring 60 points in his final game as a Los Angeles Laker on Wednesday, April 12, 2016. Drafted into the NBA at the age of 17, Kobe earned the sport’s highest accolades throughout his long career.
