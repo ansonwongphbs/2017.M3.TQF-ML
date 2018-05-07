@@ -2,7 +2,7 @@ Kobe's Shot prediction
 ==== 
 Team member:
 -------
-yiming(Anson) Wang 1701213111
+Yiming(Anson) Wang 1701213111
 
 Backgroud
 -------
@@ -32,13 +32,17 @@ some features I created by myself
 
 'shot_zone_area'
 
+'game_year'	
+
+'game_month'
+
 'is_last_minute' : whether the shot is made at the last minute of the quarter.
 
 'previous_shot_type' : the type of his previous shot attempt
 
 'previous_shot_made' : whether the previous shot is made
 
-'distance_from_staples' : the distance from LA.
+
 
 Training model 
 -------
