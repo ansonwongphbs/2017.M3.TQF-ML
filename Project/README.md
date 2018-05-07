@@ -46,7 +46,7 @@ Try kernel Ridge Regression/SVM/RandomForest/DecisionTree to choose a better mod
 
 Conclusion
 
-The best model for this project is Logistic Regression. 
+The best model for this project is DecisionTree . 
 
 
 Dataset description
