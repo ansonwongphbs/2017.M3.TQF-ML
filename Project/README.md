@@ -12,10 +12,38 @@ Using 20 years of data on Kobe's swishes and misses, we can predict which shots 
 Predictor
 -------
 My project may involve the following questions: Given the remaining time, shoting time, shoting zone, remaining second, period, etc, what the outcome is.
+some features I created by myself
+
+'action_type'
+
+'combined_shot_type'
+
+'season'
+
+'opponent'
+
+'home_game'
+
+'loc_x' : horizontal coordinates of the shot location
+
+'loc_y' : vertical coordinates of the shot location
+
+'shot_distance'
+
+'shot_zone_area'
+
+'is_last_minute' : whether the shot is made at the last minute of the quarter.
+
+'previous_shot_type' : the type of his previous shot attempt
+
+'previous_shot_made' : whether the previous shot is made
+
+'distance_from_staples' : the distance from LA.
 
 Training model 
 -------
 The algorithm used for training is Logistic Regression it contains several input variables and one input variable(1 or 0). 
+
 
 Dataset description
 -------
