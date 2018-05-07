@@ -42,7 +42,11 @@ some features I created by myself
 
 Training model 
 -------
-The algorithm used for training is Logistic Regression it contains several input variables and one input variable(1 or 0). 
+Try kernel Ridge Regression/SVM/RandomForest/DecisionTree to choose a better model.
+
+Conclusion
+
+The best model for this project is Logistic Regression. 
 
 
 Dataset description
